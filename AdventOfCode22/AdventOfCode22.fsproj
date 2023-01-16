@@ -1,0 +1,49 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net6.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <Compile Include="Helpers.fs" />
+        <Compile Include="Day1.fs" />
+        <Compile Include="Day2.fs" />
+        <Compile Include="Day3.fs" />
+        <Compile Include="Day4.fs" />
+        <Compile Include="Day5.fs" />
+        <Compile Include="Day6.fs" />
+        <Compile Include="Day7.fs" />
+        <Compile Include="Day8.fs" />
+        <Compile Include="Day9.fs" />
+        <Compile Include="Day10.fs" />
+        <Compile Include="Day11.fs" />
+        <Compile Include="Day12.fs" />
+        <Compile Include="Day13.fs" />
+        <Compile Include="Day14.fs" />
+        <Compile Include="Day19.fs" />
+        <Compile Include="Day20.fs" />
+        <Compile Include="Program.fs" />
+        <Content Include="inputs\1-1.txt" />
+        <Content Include="inputs\2-1.txt" />
+        <Content Include="inputs\3-1.txt" />
+        <Content Include="inputs\4-1.txt" />
+        <Content Include="inputs\5-1.txt" />
+        <Content Include="inputs\6-1.txt" />
+        <Content Include="inputs\7-0.txt" />
+        <Content Include="inputs\7-1.txt" />
+        <Content Include="inputs\8-0.txt" />
+        <Content Include="inputs\8-1.txt" />
+        <Content Include="inputs\9-0.txt" />
+        <Content Include="inputs\9-1.txt" />
+        <Content Include="inputs\10-0.txt" />
+        <Content Include="inputs\10-1.txt" />
+        <Content Include="inputs\11-0.txt" />
+        <Content Include="inputs\11-1.txt" />
+        <Content Include="inputs\19-0.txt" />
+        <Content Include="inputs\19-1.txt" />
+        <Content Include="inputs\20-0.txt" />
+        <Content Include="inputs\20-1.txt" />
+    </ItemGroup>
+
+</Project>
